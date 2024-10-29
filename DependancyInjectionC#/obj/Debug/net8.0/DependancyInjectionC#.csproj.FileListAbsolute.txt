@@ -1,0 +1,14 @@
+E:\Decoders\DependancyInjectionC#\DependancyInjectionC#\bin\Debug\net8.0\DependancyInjectionC#.exe
+E:\Decoders\DependancyInjectionC#\DependancyInjectionC#\bin\Debug\net8.0\DependancyInjectionC#.deps.json
+E:\Decoders\DependancyInjectionC#\DependancyInjectionC#\bin\Debug\net8.0\DependancyInjectionC#.runtimeconfig.json
+E:\Decoders\DependancyInjectionC#\DependancyInjectionC#\bin\Debug\net8.0\DependancyInjectionC#.dll
+E:\Decoders\DependancyInjectionC#\DependancyInjectionC#\bin\Debug\net8.0\DependancyInjectionC#.pdb
+E:\Decoders\DependancyInjectionC#\DependancyInjectionC#\obj\Debug\net8.0\DependancyInjectionC#.GeneratedMSBuildEditorConfig.editorconfig
+E:\Decoders\DependancyInjectionC#\DependancyInjectionC#\obj\Debug\net8.0\DependancyInjectionC#.AssemblyInfoInputs.cache
+E:\Decoders\DependancyInjectionC#\DependancyInjectionC#\obj\Debug\net8.0\DependancyInjectionC#.AssemblyInfo.cs
+E:\Decoders\DependancyInjectionC#\DependancyInjectionC#\obj\Debug\net8.0\DependancyInjectionC#.csproj.CoreCompileInputs.cache
+E:\Decoders\DependancyInjectionC#\DependancyInjectionC#\obj\Debug\net8.0\DependancyInjectionC#.dll
+E:\Decoders\DependancyInjectionC#\DependancyInjectionC#\obj\Debug\net8.0\refint\DependancyInjectionC#.dll
+E:\Decoders\DependancyInjectionC#\DependancyInjectionC#\obj\Debug\net8.0\DependancyInjectionC#.pdb
+E:\Decoders\DependancyInjectionC#\DependancyInjectionC#\obj\Debug\net8.0\DependancyInjectionC#.genruntimeconfig.cache
+E:\Decoders\DependancyInjectionC#\DependancyInjectionC#\obj\Debug\net8.0\ref\DependancyInjectionC#.dll
